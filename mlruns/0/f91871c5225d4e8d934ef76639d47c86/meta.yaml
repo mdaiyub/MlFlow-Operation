@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Aiyub/Research/MLflow/mlruns/0/f91871c5225d4e8d934ef76639d47c86/artifacts
+end_time: 1707803592957
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f91871c5225d4e8d934ef76639d47c86
+run_name: bemused-lark-561
+run_uuid: f91871c5225d4e8d934ef76639d47c86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707803589941
+status: 3
+tags: []
+user_id: naymm

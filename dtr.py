@@ -45,6 +45,7 @@ if __name__ == "__main__":
     test_x = test.drop(["quality"], axis=1)
     train_y = train[["quality"]]
     test_y = test[["quality"]]
+    #print(test_y)
 
     with mlflow.start_run():
         decision_tree = DecisionTreeRegressor(max_depth=5)  # You can set the max depth as needed
