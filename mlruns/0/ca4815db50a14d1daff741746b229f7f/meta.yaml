@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Aiyub/Research/MLflow/mlruns/0/ca4815db50a14d1daff741746b229f7f/artifacts
+end_time: 1707886409530
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ca4815db50a14d1daff741746b229f7f
+run_name: dazzling-stag-287
+run_uuid: ca4815db50a14d1daff741746b229f7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707886407343
+status: 3
+tags: []
+user_id: naymm
