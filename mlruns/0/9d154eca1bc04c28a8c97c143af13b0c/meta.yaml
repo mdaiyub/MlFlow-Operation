@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Aiyub/Research/MlFlow-Operation/mlruns/0/9d154eca1bc04c28a8c97c143af13b0c/artifacts
+end_time: 1708318686579
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9d154eca1bc04c28a8c97c143af13b0c
+run_name: grandiose-mole-780
+run_uuid: 9d154eca1bc04c28a8c97c143af13b0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708318684477
+status: 3
+tags: []
+user_id: naymm
