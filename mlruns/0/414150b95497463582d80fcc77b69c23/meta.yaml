@@ -1,0 +1,15 @@
+artifact_uri: file:///media/aiyub/New%20Volume/personal%20project/MlFlow-Operation/mlruns/0/414150b95497463582d80fcc77b69c23/artifacts
+end_time: 1708517902970
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 414150b95497463582d80fcc77b69c23
+run_name: funny-hare-326
+run_uuid: 414150b95497463582d80fcc77b69c23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708517900368
+status: 3
+tags: []
+user_id: aiyub
