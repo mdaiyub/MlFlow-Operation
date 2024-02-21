@@ -1,0 +1,15 @@
+artifact_uri: file:///media/aiyub/New%20Volume/personal%20project/MlFlow-Operation/mlruns/0/8f0a3900f0a84a23801d361a3a9f7f8e/artifacts
+end_time: 1708517623218
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8f0a3900f0a84a23801d361a3a9f7f8e
+run_name: bold-bug-646
+run_uuid: 8f0a3900f0a84a23801d361a3a9f7f8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708517620731
+status: 3
+tags: []
+user_id: aiyub
